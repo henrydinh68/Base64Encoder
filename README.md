@@ -44,7 +44,7 @@ To use the application, navigate to the user interface, enter the text you wish 
 
 ### Explore More Features
 
-For a more comprehensive set of features, visit the main website at b64encode.org. Here, you can utilize full services for encoding and decoding various data types, including images and documents, in Base64 format.
+For a more comprehensive set of features, visit the main website at [b64encode](https://b64encode.org/)b64encode.org. Here, you can utilize full services for encoding and decoding various data types, including images and documents, in Base64 format.
 
 ### Contributing
 
