@@ -28,11 +28,13 @@ Follow these steps to set up the project locally:
 3. Launch the development server:
     ```bash
     npm run serve
-    The application will be accessible at http://localhost:[port] by default.
+
+The application will be accessible at http://localhost:[port] by default.
     
 ### Building for Production
 
 To prepare the application for production deployment, run:
+
     ```bash
     npm run build
 
