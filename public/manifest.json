@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "B64encode - Base64 Encode & Decode",
+    "description": "Do you need to work with Base64 format? Our site is the perfect solution! Use our convenient online tool to easily encode or decode your data.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "b64-32.ico"
+    }
+}
