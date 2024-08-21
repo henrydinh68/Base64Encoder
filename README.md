@@ -1,5 +1,34 @@
-# Vue 3 + Vite
+# Base64 Encoder Chrome plugin
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a simple Vue.js application that provides a user-friendly interface to encode text to Base64. It allows users to input text and encode it into Base64 format, which is useful for various encoding purposes in web development and data handling.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+
+- **Text Encoding:** Convert any text into Base64.
+- **Customizable Options:** Choose different character sets and whether to encode each line separately.
+- **Clipboard Support:** Easily copy the encoded Base64 string to the clipboard.
+
+## Project Setup
+
+### Prerequisites
+
+Before setting up the project, make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   git clone https://github.com/henrydinh68/Base64Encoder.git
+   cd Base64Encoder
+2. Install dependencies:
+    npm install
+3. Run the development server:
+    npm run dev
+    The application will be available at http://localhost:[port] by default.
+4. Building for Production
+    To build the application for production, run:
+    npm run build
+
+This will create a dist directory with all the static files optimized for deployment.
+
